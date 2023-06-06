@@ -111,7 +111,8 @@ class _ProjectListPageState extends State<ProjectListPage> {
               Text('Your Score: '),
               Text('$score')
             ],
-          )
+          ),
+          Text('ใช้ปุ่มลูกศรเพื่อควบคุมจุดสีดำ')
         ]
       ),
     );
